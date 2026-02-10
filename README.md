@@ -9,7 +9,7 @@
 - 🧠 Strong in Data Structures & Algorithms
 - ⚙️ Currently learning DevOps & scalable deployment practices
 - 🏗️ Exploring System Design concepts
-- 💼 Paid Intern at **Aude.ai** as a Full Stack Developer
+- 💼 Intern at **Aude.ai** as a Full Stack Developer
 - 🎯 Actively preparing for Software Developer roles in MNCs
 - 🚀 Passionate about building scalable and production-ready applications
 
