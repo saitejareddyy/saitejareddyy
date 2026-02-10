@@ -10,7 +10,7 @@
 - ⚙️ Currently learning DevOps & scalable deployment practices
 - 🏗️ Exploring System Design concepts
 - 💼 Intern at **Aude.ai** as a Full Stack Developer
-- 🎯 Actively preparing for Software Developer roles in MNCs
+- 🎯 Actively preparing for Software Developer roles 
 - 🚀 Passionate about building scalable and production-ready applications
 
 ---
