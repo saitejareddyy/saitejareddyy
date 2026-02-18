@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Teja Reddy Damma</h1>
-<h3 align="center">Full Stack MERN Developer | DSA Enthusiast | System Desgin Explorer | DevOps Learner</h3>
+<h3 align="center">Full Stack MERN Developer | DSA Enthusiast | System Desgin Explorer </h3>
 
 ---
 
